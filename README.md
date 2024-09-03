@@ -1,6 +1,5 @@
 ### README.md para FinanceMaster
 
-```markdown
 # FinanceMaster
 
 **FinanceMaster** es una aplicación web diseñada para ayudar a los usuarios a gestionar sus finanzas personales o las de pequeños negocios. La aplicación permite a los usuarios registrar, monitorear y analizar sus ingresos y gastos, establecer presupuestos y metas financieras, y recibir recomendaciones personalizadas basadas en su situación financiera.
@@ -82,31 +81,31 @@
 Para desplegar FinanceMaster localmente, sigue estos pasos:
 
 1. **Clonar el Repositorio:**
-   ```bash
+  
    git clone https://github.com/diegoaberrio/financemaster.git
-   ```
+  
 
 2. **Navegar al Directorio del Proyecto:**
-   ```bash
+  
    cd financemaster
-   ```
+   
 
 3. **Instalar las Dependencias:**
-   ```bash
+   
    npm install
-   ```
+  
 
 4. **Configurar la Base de Datos:**
    - Configura la conexión a la base de datos en el archivo `config/database.js`.
    - Ejecuta las migraciones para crear las tablas necesarias:
-     ```bash
+     
      npm run migrate
-     ```
+   
 
 5. **Iniciar el Servidor:**
-   ```bash
+ 
    npm start
-   ```
+  
 
 6. **Acceder a la Aplicación:**
    - Abre tu navegador y accede a `http://localhost:3000` para comenzar a usar FinanceMaster.
