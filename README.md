@@ -1,6 +1,3 @@
-Claro, a continuación te dejo el README.md actualizado con el enlace a la demostración en YouTube:
-
-
 # FinanceMaster
 
 **FinanceMaster** es una aplicación web diseñada para ayudar a los usuarios a gestionar sus finanzas personales o las de pequeños negocios. La aplicación permite a los usuarios registrar, monitorear y analizar sus ingresos y gastos, establecer presupuestos y metas financieras, y recibir recomendaciones personalizadas basadas en su situación financiera.
