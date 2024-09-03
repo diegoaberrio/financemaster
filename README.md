@@ -1,4 +1,5 @@
-### README.md para FinanceMaster
+Claro, a continuación te dejo el README.md actualizado con el enlace a la demostración en YouTube:
+
 
 # FinanceMaster
 
@@ -81,17 +82,17 @@
 Para desplegar FinanceMaster localmente, sigue estos pasos:
 
 1. **Clonar el Repositorio:**
-  
+
    git clone https://github.com/diegoaberrio/financemaster.git
-  
+
 
 2. **Navegar al Directorio del Proyecto:**
-  
+ 
    cd financemaster
-   
+  
 
 3. **Instalar las Dependencias:**
-   
+  
    npm install
   
 
@@ -100,15 +101,19 @@ Para desplegar FinanceMaster localmente, sigue estos pasos:
    - Ejecuta las migraciones para crear las tablas necesarias:
      
      npm run migrate
-   
+     
 
 5. **Iniciar el Servidor:**
- 
+   
    npm start
-  
+   ```
 
 6. **Acceder a la Aplicación:**
    - Abre tu navegador y accede a `http://localhost:3000` para comenzar a usar FinanceMaster.
+
+## Demo en YouTube
+
+Para ver una demostración de FinanceMaster en acción, visita [este video en YouTube](https://www.youtube.com/watch?v=XLChbaDBNhY).
 
 ## Mi Sitio Web Personal
 
