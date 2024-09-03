@@ -93,22 +93,19 @@ Para desplegar FinanceMaster localmente, sigue estos pasos:
 
 3. **Instalar las Dependencias:**
   
-   npm install
-  
+   npm install 
 
 4. **Configurar la Base de Datos:**
    - Configura la conexión a la base de datos en el archivo `config/database.js`.
    - Ejecuta las migraciones para crear las tablas necesarias:
      
-     npm run migrate
-     
+     npm run migrate     
 
 5. **Iniciar el Servidor:**
    
    npm start
-   ```
-
-6. **Acceder a la Aplicación:**
+   
+7. **Acceder a la Aplicación:**
    - Abre tu navegador y accede a `http://localhost:3000` para comenzar a usar FinanceMaster.
 
 ## Demo en YouTube
